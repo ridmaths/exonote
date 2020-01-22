@@ -1,1 +1,1 @@
-Un générateur d'exos sur les coefficients multiplicteurs (seconde)
+Un générateur d'exos sur les coefficients multiplicateurs (seconde)
