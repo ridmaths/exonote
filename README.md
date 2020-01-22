@@ -1,1 +1,1 @@
-# exonote
+Un générateur d'exos sur les coefficients multiplicteurs (seconde)
